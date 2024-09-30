@@ -61,6 +61,11 @@ O sistema inclui funcionalidades para:
 
 ## Pré-requisitos
 
+
+## Licença
+Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo, modificar e distribuí-lo conforme a licença.
+
+
 - **MySQL** ou **MariaDB** instalado no seu ambiente de desenvolvimento.
 - Um cliente de banco de dados (ex: MySQL Workbench, DBeaver) para executar os comandos SQL.
 
