@@ -1,0 +1,17 @@
+# Ignore arquivos de banco de dados locais
+*.sql
+
+# Ignore arquivos de logs
+*.log
+
+# Ignore arquivos de cache
+*.cache
+
+# Ignore arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignore configurações de ambiente de desenvolvimento local
+.env
+.idea/
+.vscode/
